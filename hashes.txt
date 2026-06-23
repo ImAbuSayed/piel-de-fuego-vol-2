@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de fuego, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel de fuego, Vol. 2** (piel-de-fuego-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:10:57.908754 | `v1` | `a3a7014e14b6f1217f86472a479950d7cd4ca974457032030621efcecad7dbdf` | `c912a143f999abe1b0f1b16e763259e4f64d78fd4704e9f199c1146cf432963a` | `2026-06-23_piel-de-fuego-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
